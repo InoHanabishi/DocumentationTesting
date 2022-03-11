@@ -1,13 +1,7 @@
+<p align="center">
+  <img width="200" src="https://github.com/InoHanabishi/DocumentationTesting/blob/main/JOLLY.png" alt="ARGH!!!">
+</p>
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="https://github.com/InoHanabishi/DocumentationTesting/blob/main/JOLLY.png?raw=true" 
-    alt="Argh!">
-</img>
-    
     
 **For the Pirates**
 
