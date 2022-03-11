@@ -1,4 +1,4 @@
-<p allign="center">
+<p align="center">
 
 ![](https://github.com/InoHanabishi/DocumentationTesting/blob/main/JOLLY.png?raw=true)
 </p>
