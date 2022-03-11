@@ -1,6 +1,6 @@
 <p allign="center">
 
-![](media/aaaf7631e103cb86e0aae6a78f23e20a.png)
+![](https://github.com/InoHanabishi/DocumentationTesting/blob/main/JOLLY.png?raw=true)
 </p>
 
 **For the Pirates**
