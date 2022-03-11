@@ -1,7 +1,6 @@
-<p align="center">
-
-![](https://github.com/InoHanabishi/DocumentationTesting/blob/main/JOLLY.png?raw=true)
-</p>
+<div style="text-align: center;">
+![alt text](https://github.com/InoHanabishi/DocumentationTesting/blob/main/JOLLY.png?raw=true)
+<div style="text-align: center;">
 
 **For the Pirates**
 
