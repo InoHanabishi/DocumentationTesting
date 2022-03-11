@@ -1,7 +1,14 @@
-<div style="text-align: center;">
-![alt text](https://github.com/InoHanabishi/DocumentationTesting/blob/main/JOLLY.png?raw=true)
-<div style="text-align: center;">
 
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="https://github.com/InoHanabishi/DocumentationTesting/blob/main/JOLLY.png?raw=true" 
+    alt="Argh!">
+</img>
+    
+    
 **For the Pirates**
 
 -   **Let’s see**
